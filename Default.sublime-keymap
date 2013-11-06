@@ -1,0 +1,6 @@
+[{ 
+	"keys": ["j", "j", "j"], 
+	"command": "set_action", 
+	"args": {"action": "vi_esc"}, 
+	"context": [{"key": "vi_must_change_mode"}, {"key": "vi_is_buffer"}, {"key": "vi_mode_insert"}]
+	}]
