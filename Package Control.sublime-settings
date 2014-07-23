@@ -8,6 +8,7 @@
 		"MinimalFortran",
 		"Package Control",
 		"SublimeLinter",
+		"SublimeLinter-contrib-mlint",
 		"SublimeLinter-jshint",
 		"SublimePythonIDE",
 		"Terminal",
