@@ -3,6 +3,8 @@
 	"installed_packages":
 	[
 		"CheckBounce",
+		"CMake",
+		"DocBlockr",
 		"Git",
 		"GitGutter",
 		"MinimalFortran",
@@ -10,6 +12,7 @@
 		"Pretty JSON",
 		"SublimeLinter",
 		"SublimeLinter-contrib-mlint",
+		"SublimeLinter-csslint",
 		"SublimeLinter-jshint",
 		"SublimePythonIDE",
 		"Terminal",
