@@ -1,5 +1,10 @@
 {
 	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"CheckBounce"
+	],
 	"installed_packages":
 	[
 		"CheckBounce",
@@ -11,8 +16,8 @@
 		"OpenGL Shading Language (GLSL)",
 		"Package Control",
 		"Pretty JSON",
-		"SublimeCodeIntel",
 		"Rust",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-contrib-mlint",
 		"SublimeLinter-csslint",

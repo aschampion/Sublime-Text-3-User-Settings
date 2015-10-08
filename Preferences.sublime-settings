@@ -6,6 +6,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"CheckBounce",
 		"Vintage"
 	],
 	"open_files_in_new_window": false,
@@ -15,5 +16,6 @@
 		100,
 		120
 	],
-	"vintage_start_in_command_mode": true
+	"vintage_start_in_command_mode": true,
+	"vintageous_use_ctrl_keys": false
 }
